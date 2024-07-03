@@ -5,3 +5,5 @@ def multy(x,y):
 
 x = int(input("Enter number: "))
 y = int(input("Enter number: "))
+
+print("Git lesson")
